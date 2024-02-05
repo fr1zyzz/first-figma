@@ -1,0 +1,1048 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: 0;
+}
+
+.header-img {
+    width: 1900px;
+    height: 900px;
+}
+.logo {
+    position: absolute;
+    top: 70px;
+    left: 868px;
+    width: 182px;
+    height: 51px;
+}
+.text-p {
+    position: absolute;
+    width: 350px;
+    height: 25px;
+    top: 261px;
+    left: 802px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #FFFFFF;
+    font-family: 'Noto Sans', sans-serif;
+}
+.h2 {
+    position: absolute;
+    width: 932px;
+    height: 86px;
+    top: 286px;
+    left: 493px;
+    border: 1px;
+    font-weight:bold;
+    color: #FFFFFF;
+    font-size: 64px;
+    font-family: 'Noto Sans', sans-serif;
+}
+.text-head {
+    position: absolute;
+    width: 258px;
+    height: 25px;
+    top: 541px;
+    left: 855.58px;
+    color: #FFFFFF;
+    font-size: 18px;
+    font-weight: 400;
+}
+.rightarrow {
+    position: absolute;
+    width: 100.05px;
+    height: 100px;
+    top: 482px;
+    left: 799px;
+    border: 2px;
+
+}
+.rightarrow:hover {
+    background-color: #a9a32a;
+    border-radius: 100px;
+    z-index: 0;
+}
+.socsetid {
+    display: flex;
+    position: absolute;
+    width: 166.12px;
+    height: 30.03px;
+    top: 832px  ;
+    left: 871px;
+    padding: 0px, 0px, 0px, 0px;
+    gap: 11px;
+}
+.socseti {
+    width: 30.02px;
+    height: 22px;
+    top: 836px;
+    left: 925.54px;
+}
+.secchast {
+    position: absolute;
+    width: 1199px;
+    height: 763px;
+    top: 1050px;
+    left: 360px;
+}
+.secimg {
+    position: absolute;
+    width: 600px;
+    height: 670px;
+    top: 93px;
+    left: 599px;
+
+}
+.pinsec {
+    position: absolute;
+    width: 198px;
+    height: 33px;
+    top: 0px;
+    left: 0px;
+    font-family: Noto Sans; 
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 33px;
+    letter-spacing: 0em;
+    text-align: left;
+    color:#868585;
+
+}
+.pinsecsec {
+    width: 510px;
+    height: 116px;
+    top: 1143px;
+    left: 360px;
+
+}
+.pinsec2 {
+    position: absolute;
+    width: 510px;
+    height: 25px;
+    top: 1143px;
+    left: 360px;
+    font-family: Noto Sans;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #303030;
+}
+.pinsec22 {
+    position:absolute;
+    width: 510px;
+    height: 76px;
+    top: 1183px;
+    left: 360px;
+    color: #303030;
+
+}
+
+.pinsec3 { 
+    position: absolute;
+    width: 510px;
+    height: 50px;
+    top: 1309px;
+    left: 360px;
+    font-family: Noto Sans;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #303030;
+}
+.pinsec33 {
+    position: absolute;
+    width: 510px;
+    height: 76px;
+    top: 1374px;
+    left: 360px;
+    color: #303030;
+}
+
+.pinsec4 {
+    position: absolute;
+    width: 510px;
+    height: 25px;
+    top: 1500px;
+    left: 360px;
+    font-family: Noto Sans;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #303030;
+}
+.pinsec44 {
+    position: absolute;
+    width: 510px;
+    height: 76px;
+    top: 1540px;
+    left: 360px;
+    font-family: Noto Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #303030;
+}
+.pinsec5 {
+    position: absolute;
+    width: 510px;
+    height: 25px;
+    top: 1666px;
+    left: 360px;
+    font-family: Noto Sans;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #303030;
+}
+.pinsec55 {
+    color: #303030;
+    position: absolute;
+    width: 510px;
+    height: 76px;
+    top: 1706px;
+    left: 360px;
+    font-family: Noto Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.h1 {
+    position: absolute;
+    width: 217px;
+    height: 33px;
+    top: 1963px;
+    left: 362px;
+    font-family: Noto Sans; 
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 33px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #868585;
+}
+.line1 {
+    position: absolute;
+    width: 82px;
+    height: 22px;
+    top: 2056px;
+    left: 360px;
+    font-family: Noto Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #303030;
+    text-decoration: underline;
+}
+.line2 {
+    position: absolute;
+    width: 115px;
+    height: 22px;
+    top: 2056px;
+    left: 482px;
+    font-family: Noto Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #303030;
+}
+.line3 {
+    position: absolute;
+    color: #303030;
+    width: 123px;
+    height: 22px;
+    top: 2056px;
+    left: 637px;
+    font-family: Noto Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.tarif{
+    position: absolute;
+    color: #303030;
+    width: 600px;
+    height: 130px;
+    top: 2056px;
+    left: 960px;
+    font-family: Noto Sans;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.Rectangle {
+    position: absolute;
+    width: 600px;
+    height: 525px;
+    top: 2203px;
+    left: 960px;
+}
+.arrow2{
+    position: absolute;
+    width: 40px;
+    top: 2403px;
+    left: 698px;
+    border: 1px;
+    color: #303030;
+}
+.arrow1{
+    position: absolute;
+    width: 40px;
+    top: 2403px;
+    left: 640px;
+    border: 1px;
+    color: #303030;
+}
+.price {
+    position: absolute;
+    color: #303030;
+    width: 235px;
+    height: 114px;
+    top: 2203px;
+    left: 635px;
+    font-family: Noto Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.Rectangle9 {
+    position: absolute;
+    width: 235px;
+    height: 200px;
+    top: 2203px;
+    left: 360px;
+}
+.garant {
+    color: #303030;
+    position: absolute;
+    width: 184px;
+    height: 26px;
+    top: 2503px;
+    left: 360px;
+    font-family: Noto Sans;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.dolgo {
+    position: absolute;
+    color: #303030;
+    width: 160px;
+    height: 26px;
+    top: 2503px;
+    left: 635px;
+    font-family: Noto Sans;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.vid {
+    position: absolute;
+    color: #303030;
+    width: 160px;
+    height: 25px;
+    top: 2629px;
+    left: 360px;
+    font-family: Noto Sans;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.stavka {
+    position: absolute;
+    color: #303030;
+    width: 160px;
+    height: 28px;
+    top: 2629px;
+    left: 635px;
+    font-family: Noto Sans;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.garant2 {
+    position: absolute;
+    color: #303030;
+    width: 235px;
+    height: 78.44px;
+    top: 2534px;
+    left: 360px;
+    font-family: Noto Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.dolgo2 {
+    position: absolute;
+    color: #303030;
+    width: 235px;
+    height: 76px;
+    top: 2534px;
+    left: 635px;
+    font-family: Noto Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.vid2 {
+    position: absolute;
+    color: #303030;
+    width: 235px;
+    height: 57px;
+    top: 2660px;
+    left: 360px;
+    font-family: Noto Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.stavka2 {
+    position: absolute;
+    color: #303030;
+    width: 235px;
+    height: 40px;
+    top: 2661.53px;
+    left: 635px;
+    font-family: Noto Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.Rectangle10{
+    position: absolute;
+    width: 1900px;
+    height: 500px;
+    top: 2878px;
+
+}
+
+.arrow2:hover .arrow2path {
+    fill:#A9A32A;
+}
+.arrow1:hover .arrow1path {
+    fill: #a9a32a;
+}
+
+.in2foto {
+    position:absolute;
+    color: #ffffff;
+    width: 673px;
+    height: 228px;
+    top: 3006px;
+    left: 623px;
+    font-family: Noto Sans;
+    font-size: 42px;
+    font-weight: 400;
+    line-height: 57px;
+    letter-spacing: 0em;
+    text-align: center;
+
+}
+.Rectangle11 {
+    position: absolute;
+    width: 510px;
+    height: 370px;
+    top: 3621px;
+    left: 360px;
+
+
+}
+.pinthirdsec {
+    color:#868585 ;
+    position: absolute;
+    width: 275px;
+    height: 33px;
+    top: 3528px;
+    left: 361px;
+    font-family: Noto Sans;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 33px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.h1sun {   
+    position: absolute;
+    font-family: Noto Sans;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 478px;
+    height: 50px;
+    top: 3621px;
+    left: 961px;
+    color: #303030;
+}
+.h1sun1 {
+    position: absolute;
+    width: 549px;
+    height: 21px;
+    top: 3701px;
+    left: 1011px;
+    color: #303030;
+    font-family: Noto Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.h1sun2 {
+    position: absolute;
+    color: #303030;
+    width: 549px;
+    height: 19px;
+    top: 3737px;
+    left: 1011px;
+    font-family: Noto Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.h1sun3{
+    position: absolute;
+    color: #303030;
+    width: 549px;
+    height: 19px;
+    top: 3772px;
+    left: 1011px;
+    font-family: Noto Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.h1sun4 {
+    position: absolute;
+    color: #303030;
+    width: 549px;
+    height: 19px;
+    top: 3807px;
+    left: 1011px;
+    font-family: Noto Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.nutiparight {
+    color: #303030;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 3891px;
+    left: 961px;
+}
+.nutiparight:hover {
+    background-color: #a9a32a;
+    border-radius: 100px;
+
+}
+.arrow3 {
+    position: absolute;
+    color: #303030;
+    width: 40px;
+    top: 3935px;
+    left: 991px;
+    border: 2px;
+
+}
+.rightarrow3text {
+    position: absolute;
+    color: #303030;
+    width: 256px;
+    height: 25px;
+    top: 3950px;
+    left: 1011px;
+    font-family: Noto Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+
+
+}
+.chats {
+    position: absolute;
+    width: 324px;
+    height: 66px;
+    top: 4173px;
+    left: 361px;
+    font-family: Noto Sans;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 33px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #868585;
+}
+.Rectangle12 {
+    position: absolute;
+    width: 600px;
+    height: 730px;
+    top: 4173px;
+    left: 960px;
+}
+.cifri {
+    font-family: Noto Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #868585;
+}
+#zero1 {
+    position: absolute;
+    width: 17px;
+    height: 19px;
+    top: 4299px;
+    left: 360px;
+}
+#zero2 {
+    position: absolute;
+    width: 17px;
+    height: 19px;
+    top: 4424px;
+    left: 360px;
+
+}
+#zero3 {
+    position: absolute;
+    width: 17px;
+    height: 19px;
+    top: 4549px;
+    left: 361px;
+
+}
+#zero4 {
+    position: absolute;
+    width: 18px;
+    height: 15px;
+    top: 4674px;
+    left: 360px;
+
+}
+#zero5 {
+    position: absolute;
+    width: 18px;
+    height: 15px;
+    top: 4794px;
+    left: 360px;
+
+}
+.zagolh1 {
+    font-family: Noto Sans;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #303030;
+}
+#zagol1 {
+    position: absolute;
+    width: 181px;
+    height: 25px;
+    top: 4329px;
+    left: 360px;
+
+}
+#zagol2 {
+    position: absolute;
+    width: 323px;
+    height: 25px;
+    top: 4454px;
+    left: 360px;
+
+}
+#zagol3 {
+    position: absolute;
+    width: 216px;
+    height: 25px;
+    top: 4579px;
+    left: 360px;
+
+}
+#zagol4 {
+    position: absolute;
+    width: 121px;
+    height: 25px;
+    top: 4699px;
+    left: 360px;
+  
+}
+#zagol5 {
+    position: absolute;
+    width: 326px;
+    height: 25px;
+    top: 4819px;
+    left: 360px;
+
+}
+.obichtext {    
+    font-family: Noto Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #303030;
+}
+#text1 {
+    position: absolute;
+    width: 510px;
+    height: 38px;
+    top: 4356px;
+    left: 360px;
+
+}
+#text2 {
+    position: absolute;
+    width: 510px;
+    height: 38px;
+    top: 4481px;
+    left: 360px;
+
+}
+#text3 {
+    position: absolute;
+    width: 510px;
+    height: 38px;
+    top: 4606px;
+    left: 360px;
+
+}
+#text4 {
+    position: absolute;
+    width: 510px;
+    height: 38px;
+    top: 4726px;
+    left: 360px;
+
+}
+#text5 {
+    position: absolute;
+    width: 510px;
+    height: 57px;
+    top: 4846px;
+    left: 360px;
+
+}
+.Rectangle13 {
+    position: absolute;
+    width: 1900px;
+    height: 730px;
+    top: 5053px;
+
+}
+.zagol2 {
+    color: #ffffff;
+    font-family: Noto Sans;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 33px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+#zagol11 {
+    position: absolute;
+    width: 232px;
+    height: 33px;
+    top: 5123px;
+    left: 360px;
+
+}
+#zagol12 {
+    position: absolute;
+    width: 137px;
+    height: 33px;
+    top: 5123px;
+    left: 960px;
+
+}
+.foottext {
+    color: #FFFFFF;
+    font-family: Noto Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+#foottext1 {
+    position: absolute;
+    width: 600px;
+    height: 50px;
+    top: 5216px;
+    left: 960px;
+
+}
+#foottext2 {
+    position: absolute; 
+    width: 600px;
+    height: 50px;
+    top: 5296px;
+    left: 960px;
+
+}
+#foottext3 {
+    position: absolute;
+    width: 600px;
+    height: 25px;
+    top: 5376px;
+    left: 960px;
+
+
+}
+#foottext4 {
+    position: absolute;
+    width: 600px;
+    height: 50px;
+    top: 5431px;
+    left: 960px;
+
+}
+#foottext5 {
+    position: absolute;
+    width: 600px;
+    height: 22px;
+    top: 5511px;
+    left: 960px;
+
+}
+.logo2 {
+    position: absolute;
+    width: 182px;
+    height: 51px;
+    top: 5683px;
+    left: 869px;
+
+}
+.inst2 {
+    position: absolute;
+    text-decoration: none;
+    width: 29.52px;
+    height: 29.52px;
+    top: 5684.51px;
+    left: 1393px;
+    border: 1px;
+
+}
+.inst3 {
+    position: absolute;
+    text-decoration: none;
+    width: 30px;
+    height: 22px;
+    top: 5688px;
+    left: 1442.52px;
+    border: 1px;
+
+}
+.inst4 {
+    position: absolute;
+    text-decoration: none;
+    width: 29.52px;
+    height: 29.52px;
+    top: 5684.06px;
+    left: 1492.52px;
+    border: 1px;
+
+
+}
+.inst5 {
+    position: absolute;
+    text-decoration: none;
+    width: 17px;
+    height: 30px;
+    top: 5684px;
+    left: 1542.04px;
+    border: 1px;
+
+
+
+}
+.polit {
+    position: absolute;
+    width: 212px;
+    height: 16px;
+    top: 5693px;
+    left: 360px;
+    color: #FFFFFF;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+
+
+
+}
+form .txt_field {
+    position: absolute;
+    top: 5216px;
+    left: 359px;
+    border-bottom: 2px solid #adadad;
+}
+
+#div1 {
+    position: absolute;
+    width: 510px;
+    height: 30px;
+    top: 5216px;
+    left: 359px;
+
+}
+#div2 {
+    position: absolute;
+    width: 510px;
+    height: 30px;
+    top: 5306px;
+    left: 359px;
+
+}
+
+.input1 {
+    width: 100%;
+    padding: 0 5px;
+    height: 40px;
+    font-size: 16px;
+    border: none;
+    background: none;
+    outline: none;
+    color: #ffffff;
+
+}
+.input2 {
+    width: 100%;
+    padding: 0 5px;
+    height: 40px;
+    font-size: 16px;
+    border: none;
+    background: none;
+    outline: none;
+    color: #ffffff;
+}
+.txt_field label {
+    position: absolute;
+    top: 50%;
+    left: 5px;
+    color: #adadad;
+    transform: translateY(-50%);
+    font-size: 16px;
+    pointer-events: none;
+    transition: 0.3s;
+}
+
+  
+.txt_field span::before {
+    content: "";
+    position: absolute;
+    top: 30px;
+    left: 0;
+    width: 0%;
+    height: 2px;
+    background: #2691d9;
+  
+    transition: 0.3s;
+}
+  .txt_field input:focus ~ label,  
+  .txt_field input:valid ~ label {
+    top: -5px;
+    color: #2691d9;
+}
+  
+.txt_field input:focus ~ span::before,
+.txt_field input:valid ~ span::before {
+    width: 100%;
+}
+.Ellipse2 {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 5396px;
+    left: 359px;
+    border: 2px;
+    border-color: #ffffff;
+}
+.Ellipse2:hover {
+    background-color: #a9a32a;
+    border-radius: 100px;
+    z-index: 0;
+}
+#lalala {
+    position: absolute;
+    width: 143px;
+    height: 25px;
+    top: 5455px;
+    left: 409px;
+    color: #FFFFFF;
+    font-family: Noto Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
